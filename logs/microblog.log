@@ -33,3 +33,5 @@ Traceback (most recent call last):
     {{ form.hidden_tag() }}
     ^^^^^^^^^^^^^^^^^
 TypeError: FlaskForm.hidden_tag() missing 1 required positional argument: 'self'
+2025-09-30 14:07:46,976 INFO: Microblog startup [in /Users/trevornance/coding/web_stuff/flask_mega_tutorial-microblog/app/__init__.py:51]
+2025-09-30 14:08:31,502 INFO: Microblog startup [in /Users/trevornance/coding/web_stuff/flask_mega_tutorial-microblog/app/__init__.py:53]
